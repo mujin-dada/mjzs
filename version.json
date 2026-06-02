@@ -1,6 +1,6 @@
-{
-  "version": "3.0.0",
-  "update_url": "https://wk.bobo91.com/zs.rar",
-  "update_notes": "初始版本发布",
-  "force_update": false
-}
+  {
+    "version": "3.0.1",
+    "update_url": "https://wk.bobo91.com/zs.zip",
+    "update_notes": "● 修复xxx\n● 新增xxx",
+    "force_update": false
+  }
